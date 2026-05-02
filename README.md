@@ -12,16 +12,24 @@
 ## 畫面截圖
 
 主畫面
-![主畫面](images/main.png)
+<img width="942" height="427" alt="image" src="https://github.com/user-attachments/assets/f6ee8925-7201-4dbd-b972-f0805079b54e" />
+
 
 下注的時候
-![下注](images/bet.png)
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/9e1b4279-7878-4ef9-b015-38b7ad087689" />
+
+
 
 雙人模式
-![雙人](images/twoplayer.png)
+
+玩家(一)
+<img width="937" height="424" alt="image" src="https://github.com/user-attachments/assets/0ec743a5-d415-4f6b-a11e-a03540b836ae" />
+玩家(二)
+<img width="941" height="421" alt="image" src="https://github.com/user-attachments/assets/df3a2ffd-5888-404d-b51c-36c19ef2619f" />
 
 結果畫面
-![結果](images/result.png)
+<img width="938" height="416" alt="image" src="https://github.com/user-attachments/assets/f5dad9dd-fefa-4e78-bcfb-c67b466b2ec4" />
+
 
 ---
 
@@ -67,7 +75,28 @@
 
 ## 執行方式
 
-用 Visual Studio 開 `Poker.sln` 就可以跑了。
+## 執行方式 / 遊戲流程
+
+1. 開啟 Visual Studio，打開 `Poker.sln` 並執行程式。
+
+2. 進入遊戲後，可以先選擇模式，包含單人模式或雙人模式。
+
+3. 輸入要下注的金額，確認金額沒有超過目前持有的錢。
+
+4. 按下「下注」後，再按「發牌」，系統會發出五張牌。
+
+5. 如果想換牌，可以選擇要換的牌，再按下「換牌」。
+
+6. 換牌完成後，按下「判斷牌型」，系統會顯示目前的牌型。
+
+7. 系統會依照牌型倍率計算中獎金額，並更新玩家目前的金額。
+
+8. 如果是雙人模式，這一回合結束後會自動切換到下一位玩家。
+
+9. 玩家可以繼續下注並進行下一回合遊戲。
+
+10. 當玩家金額不足時，就不能再繼續下注。
+
 
 ---
 
