@@ -17,8 +17,10 @@
 
 下注的時候
 <img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/9e1b4279-7878-4ef9-b015-38b7ad087689" />
-
-
+發牌的時候
+<img width="943" height="419" alt="image" src="https://github.com/user-attachments/assets/f17347a5-e3de-486b-9966-1ad759f0f2b2" />
+換牌的時候
+<img width="938" height="416" alt="image" src="https://github.com/user-attachments/assets/e5fab6b0-2167-4204-af46-3d81ab7101e2" />
 
 雙人模式
 
